@@ -1,1 +1,1 @@
-Images of maps, charts used for final report
+**Images of maps, charts used for final report**
