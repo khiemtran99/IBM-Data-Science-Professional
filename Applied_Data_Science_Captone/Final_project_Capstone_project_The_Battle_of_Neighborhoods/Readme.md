@@ -1,5 +1,5 @@
-##**Coursera Capstone
-Capstone project from IBM data science professional certificate**
+## Coursera Capstone
+## Capstone project from IBM data science professional certificate
 
 **Final Report:**
 
